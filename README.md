@@ -11,4 +11,7 @@ www list:
 
 [Instrumentation Amplifiers search](https://www.analog.com/en/parametricsearch/13010#/)
 
+[analog-circuits](https://www.ti.com/design-development/analog-circuits.html)
+
 [K-Type Thermocouple Measurements](https://wbo2.com/sw/therm.htm)
+
